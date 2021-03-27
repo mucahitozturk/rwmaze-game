@@ -9,4 +9,4 @@
 
 ## Harita Level Sonu Bölümü
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/32402864/112737402-6133f600-8f6b-11eb-9e58-7fb9218c9f9a.png)
